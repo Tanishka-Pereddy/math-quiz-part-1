@@ -1,0 +1,9 @@
+body {
+    background-color: #f0f2dc;
+  }
+.login_div1, .login_div2 {
+    background-image: url('Background img 1.jpeg');
+    float: none;
+    padding: 10px;
+    border-radius: 20px;
+}
